@@ -1,0 +1,50 @@
+[
+        {
+                "border_color": [
+                        255, 
+                        255, 
+                        255
+                ], 
+                "fill_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "interp_type": 6, 
+                "name": "Flag", 
+                "observations": [
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "1", 
+                                "sample_number": 548, 
+                                "trace_number": 1555
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "2", 
+                                "sample_number": 548, 
+                                "trace_number": 2177
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "3", 
+                                "sample_number": 548, 
+                                "trace_number": 2496
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "4", 
+                                "sample_number": 548, 
+                                "trace_number": 2772
+                        }
+                ]
+        }
+]

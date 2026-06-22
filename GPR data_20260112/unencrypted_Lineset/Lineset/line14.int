@@ -1,0 +1,122 @@
+[
+        {
+                "border_color": [
+                        255, 
+                        255, 
+                        255
+                ], 
+                "fill_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "interp_type": 6, 
+                "name": "Flag", 
+                "observations": [
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "1", 
+                                "sample_number": 548, 
+                                "trace_number": 468
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "2", 
+                                "sample_number": 548, 
+                                "trace_number": 941
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "3", 
+                                "sample_number": 548, 
+                                "trace_number": 1245
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "4", 
+                                "sample_number": 548, 
+                                "trace_number": 1459
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "5", 
+                                "sample_number": 548, 
+                                "trace_number": 2322
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "6", 
+                                "sample_number": 548, 
+                                "trace_number": 2985
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "7", 
+                                "sample_number": 548, 
+                                "trace_number": 3391
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "8", 
+                                "sample_number": 548, 
+                                "trace_number": 3490
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "9", 
+                                "sample_number": 548, 
+                                "trace_number": 3689
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "10", 
+                                "sample_number": 548, 
+                                "trace_number": 3739
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "11", 
+                                "sample_number": 548, 
+                                "trace_number": 3984
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "12", 
+                                "sample_number": 548, 
+                                "trace_number": 4100
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "13", 
+                                "sample_number": 548, 
+                                "trace_number": 4254
+                        }
+                ]
+        }
+]

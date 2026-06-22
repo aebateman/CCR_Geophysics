@@ -1,0 +1,49 @@
+[
+        {
+                "border_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "fill_color": [
+                        233, 
+                        61, 
+                        149
+                ], 
+                "interp_type": 1, 
+                "name": "Pink", 
+                "observations": [
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 523.85785123966946, 
+                                "trace_number": 171.09999999999999
+                        }
+                ]
+        }, 
+        {
+                "border_color": [
+                        255, 
+                        255, 
+                        255
+                ], 
+                "fill_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "interp_type": 6, 
+                "name": "Flag", 
+                "observations": [
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "name": "1", 
+                                "sample_number": 548, 
+                                "trace_number": 217
+                        }
+                ]
+        }
+]

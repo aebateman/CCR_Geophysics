@@ -1,0 +1,26 @@
+[
+        {
+                "border_color": [
+                        255, 
+                        255, 
+                        255
+                ], 
+                "fill_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "interp_type": 6, 
+                "name": "Flag", 
+                "observations": [
+                        {
+                                "ele": 354.69490000000002, 
+                                "lat": 37.366527883333333, 
+                                "long": -79.972212168333328, 
+                                "name": "1", 
+                                "sample_number": 685, 
+                                "trace_number": 492
+                        }
+                ]
+        }
+]
