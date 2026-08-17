@@ -1,0 +1,100 @@
+1    National Geodetic Survey, Retrieval Date = JULY 16, 2026 19:29:06 EDT
+ DK8251 ***********************************************************************
+ DK8251  CORS        -  This is a GPS Continuously Operating Reference Station.
+ DK8251  DESIGNATION -  LOYOLA LS04 CORS ARP
+ DK8251  CORS_ID     -  LS04
+ DK8251  PID         -  DK8251
+ DK8251  STATE/COUNTY-  VA/ROANOKE
+ DK8251  COUNTRY     -  US
+ DK8251  USGS QUAD   -  ROANOKE (2019)
+ DK8251
+ DK8251                         *CURRENT SURVEY CONTROL
+ DK8251  ______________________________________________________________________
+ DK8251* NAD 83(2011) POSITION- 37 21 47.13911(N) 079 57 26.96983(W)   ADJUSTED
+ DK8251* NAD 83(2011) ELLIP HT-   325.463 (meters)        (04/??/25)   ADJUSTED
+ DK8251* NAD 83(2011) EPOCH   -  2010.00
+ DK8251  ______________________________________________________________________
+ DK8251  GEOID HEIGHT    -        -32.407 (meters)                     GEOID18
+ DK8251  NAD 83(2011) X  -    885,129.006 (meters)                     COMP
+ DK8251  NAD 83(2011) Y  - -4,998,129.281 (meters)                     COMP
+ DK8251  NAD 83(2011) Z  -  3,849,695.890 (meters)                     COMP
+ DK8251
+ DK8251  Network accuracy estimates per FGDC Geospatial Positioning Accuracy
+ DK8251  Standards:
+ DK8251         FGDC (95% conf, cm)     Standard deviation (cm)     CorrNE
+ DK8251            Horiz  Ellip           SD_N   SD_E   SD_h      (unitless)
+ DK8251  -------------------------------------------------------------------
+ DK8251  NETWORK    0.13   0.18           0.05   0.06   0.09     -0.31367300
+ DK8251  -------------------------------------------------------------------
+ DK8251
+ DK8251.The coordinates were established by GPS observations
+ DK8251.and adjusted by the National Geodetic Survey in April 2025.
+ DK8251
+ DK8251.NAD 83(2011) refers to NAD 83 coordinates where the reference frame has 
+ DK8251.been affixed to the stable North American Tectonic Plate. 
+ DK8251
+ DK8251.The coordinates are valid at the epoch date displayed above
+ DK8251.which is a decimal equivalence of Year/Month/Day.
+ DK8251
+ DK8251.NGS completed the third reprocessing of daily RINEX data from 1996 to 2022
+ DK8251.for all stations in the NOAA CORS Network (NCN).  The reprocessed solution,
+ DK8251.known as the Multi-Year CORS Solution 3 (MYCS3), is aligned with the
+ DK8251.ITFR2020 global frame, epoch 2020.00.  The resulting MYCS3 coordinates
+ DK8251.were then transformed to NAD83(2011/MA11/PA11), maintaining the currently
+ DK8251.published epoch of 2010.00.
+ DK8251
+ DK8251.Additional information on MYCS is available at:
+ DK8251.https://geodesy.noaa.gov/CORS/index.shtml
+ DK8251
+ DK8251.Significant digits in the geoid height do not necessarily reflect accuracy.
+ DK8251.GEOID18 height accuracy estimate available here.
+ DK8251
+ DK8251.The PID for the CORS L1 Phase Center is DR4850.
+ DK8251
+ DK8251.Click photographs - Photos may exist for this station.
+ DK8251
+ DK8251.The XYZ, and position/ellipsoidal ht. are equivalent.
+ DK8251
+ DK8251.The ellipsoidal height was determined by GPS observations
+ DK8251.and is referenced to NAD 83.
+ DK8251
+ DK8251. The following values were computed from the NAD 83(2011) position.
+ DK8251
+ DK8251;                    North         East     Units Scale Factor Converg.
+ DK8251;SPC VA S     - 1,115,274.080 3,370,897.902   MT  0.99994540   -0 53 04.5
+ DK8251;SPC VA S     - 3,659,028.38 11,059,354.20   sFT  0.99994540   -0 53 04.5
+ DK8251;UTM  17      - 4,135,662.540   592,316.722   MT  0.99970498   +0 37 57.7
+ DK8251
+ DK8251!             -  Elev Factor  x  Scale Factor =   Combined Factor
+ DK8251!SPC VA S     -   0.99994893  x   0.99994540  =   0.99989433
+ DK8251!UTM  17      -   0.99994893  x   0.99970498  =   0.99965392
+ DK8251
+ DK8251_U.S. NATIONAL GRID SPATIAL ADDRESS: 17SNB9231635662(NAD 83)
+ DK8251
+ DK8251                          SUPERSEDED SURVEY CONTROL
+ DK8251
+ DK8251  NAD 83(2011)-  37 21 47.13927(N)    079 57 26.96986(W) AD(2010.00) c
+ DK8251  ELLIP H (01/??/23)  325.464  (m)                       GP(2010.00) c c
+ DK8251  NAD 83(2011)-  37 21 47.13918(N)    079 57 26.96989(W) AD(2010.00) c
+ DK8251  ELLIP H (05/??/20)  325.503  (m)                       GP(2010.00) c c
+ DK8251  NAD 83(2011)-  37 21 47.13927(N)    079 57 26.96986(W) AD(2010.00) c
+ DK8251  ELLIP H (06/??/19)  325.464  (m)                       GP(2010.00) c c
+ DK8251  NAD 83(2011)-  37 21 47.13927(N)    079 57 26.96981(W) AD(2010.00) c
+ DK8251  ELLIP H (08/??/11)  325.458  (m)                       GP(2010.00) c c
+ DK8251  NAD 83(CORS)-  37 21 47.13970(N)    079 57 26.97038(W) AD(2002.00) c
+ DK8251  ELLIP H (02/??/09)  325.452  (m)                       GP(2002.00) c c
+ DK8251
+ DK8251.Superseded values are not recommended for survey control.
+ DK8251
+ DK8251.NGS no longer adjusts projects to the NAD 27 or NGVD 29 datums.
+ DK8251.See file dsdata.pdf to determine how the superseded data were derived.
+ DK8251
+ DK8251_MARKER: STATION IS THE ANTENNA REFERENCE POINT OF THE GPS ANTENNA
+ DK8251
+ DK8251                          STATION DESCRIPTION
+ DK8251
+ DK8251'DESCRIBED BY NATIONAL GEODETIC SURVEY 2025
+ DK8251'THIS STATION IS PART OF THE NOAA CORS NETWORK (NCN).  LATEST INFORMATION
+ DK8251'INCLUDING POSITIONS AND VELOCITIES ARE AVAILABLE IN THE COORDINATE
+ DK8251'AND LOG FILES ACCESSIBLE AT:
+ DK8251'https://geodesy.noaa.gov/CORS/index.shtml
